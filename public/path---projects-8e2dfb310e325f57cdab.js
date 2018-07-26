@@ -1,0 +1,2 @@
+webpackJsonp([97786326051841],{336:function(e,t){e.exports={data:{page:{id:"/Users/varya/WebDev/Personal/design-systems.academy/content/pages/1--projects/index.md absPath of file >>> MarkdownRemark",htmlAst:{type:"root",children:[{type:"element",tagName:"p",properties:{},children:[{type:"text",value:"Blah blah + links to personal pages yet"}]}],data:{quirksMode:!1}},frontmatter:{title:"Projects"}}},pathContext:{slug:"/projects/"}}}});
+//# sourceMappingURL=path---projects-8e2dfb310e325f57cdab.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{115:function(e,t){e.exports={data:{pages:{edges:[{node:{fields:{slug:"/projects/",prefix:"1",level:1},frontmatter:{title:"Projects",menuTitle:null}}},{node:{fields:{slug:"/about/",prefix:"2",level:1},frontmatter:{title:"About Design Systems Academy",menuTitle:"About"}}},{node:{fields:{slug:"/about/docs/",prefix:"2",level:2},frontmatter:{title:"OUr website",menuTitle:null}}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----0ff2756a4057fbe6bffc.js.map
