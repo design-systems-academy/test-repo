@@ -15,8 +15,7 @@
     "stylelint": "stylelint src/**/*.js",
     "generate-app-icons": "sh ./scripts/generate-app-icons.sh",
     "styleguidist:server": "cd styleguide && npm run styleguidist:server",
-    "build:copy": "rm -rf release && mkdir release && cp -r public release/ && cp -r .s2i release/ && cp -r server release/ && cp server/package.json release/ && cp Dockerfile release/",
-    "deploy": "npm run build && npm run build:copy && npm run deploy:release",
+    "deploy": "npm run build npm run deploy:release",
     "deploy:release": "git-directory-deploy --directory ./release --repo origin --branch gh-pages",
     "test:visual": "cd styleguide/ && npx styleguidist-visual test --url http://localhost:6060/",
     "test:visual:approve": "cd styleguide/ && npx styleguidist-visual approve"
